@@ -11,3 +11,4 @@
 * [2016-11-23](https://github.com/learn-data-science/data-science-reading/blob/master/2016-11-23.md)
 * [2016-12-07](https://github.com/learn-data-science/data-science-reading/blob/master/2016-12-07.md)
 * [2017-01-04](https://github.com/learn-data-science/data-science-reading/blob/master/2017-01-04.md)
+* [2017-01-18](https://github.com/learn-data-science/data-science-reading/blob/master/2017-01-18.md)
