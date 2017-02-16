@@ -1,0 +1,9 @@
+## Chosen paper
+
+[Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530), Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals
+
+## Other suggestions
+
+* [Safe and Nested Endgame Solving for Imperfect-Information Games](https://www.cs.cmu.edu/~noamb/papers/17-AAAI-Refinement.pdf), Noam Brown, Tuomas Sandholm
+* [Automatic Differentiation Variational Inference](https://arxiv.org/abs/1603.00788), Alp Kucukelbir, Dustin Tran, Rajesh Ranganath, Andrew Gelman, David M. Blei
+* [Negative training data can be harmful to text classification](http://dl.acm.org/citation.cfm?id=1870680), Xiao-Li Li, Bing Liu, See-Kiong Ng
