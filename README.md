@@ -1,7 +1,7 @@
 # Data Science Reading
 
-* [Image Processing](image processing)
-* [Rating Prediction](rating prediction)
+* [Image Processing](https://github.com/learn-data-science/data-science-reading/tree/master/image%20processing)
+* [Rating Prediction](https://github.com/learn-data-science/data-science-reading/tree/master/rating%20prediction)
 
 ## Papers by Meetup Date
 
