@@ -1,5 +1,6 @@
 # Data Science Reading
 
+* [Deep Clustering](https://github.com/learn-data-science/data-science-reading/tree/master/Deep%20Clustering)
 * [Image Processing](https://github.com/learn-data-science/data-science-reading/tree/master/image%20processing)
 * [Rating Prediction](https://github.com/learn-data-science/data-science-reading/tree/master/rating%20prediction)
 
