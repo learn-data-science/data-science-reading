@@ -1,5 +1,7 @@
 # Data Science Reading
 
+## Backgrounders
+
 * [Deep Clustering](https://github.com/learn-data-science/data-science-reading/tree/master/Deep%20Clustering)
 * [Image Processing](https://github.com/learn-data-science/data-science-reading/tree/master/image%20processing)
 * [Rating Prediction](https://github.com/learn-data-science/data-science-reading/tree/master/rating%20prediction)
@@ -22,3 +24,4 @@
 * [2017-03-01](https://github.com/learn-data-science/data-science-reading/blob/master/2017-03-01.md)
 * [2017-03-15](https://github.com/learn-data-science/data-science-reading/blob/master/2017-03-15.md)
 * [2017-03-29](https://github.com/learn-data-science/data-science-reading/blob/master/2017-03-29.md)
+* [2017-04-12](https://github.com/learn-data-science/data-science-reading/blob/master/2017-04-12.md)
