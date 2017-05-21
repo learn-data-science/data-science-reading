@@ -1,5 +1,6 @@
 # 2016 Archives
 
+- 2016-10-12: [Gaussian processes for time-series modelling](http://rsta.royalsocietypublishing.org/content/371/1984/20110550.short), S. Roberts, M. Osborne, M. Ebden, S. Reece, N. Gibson, S. Aigrain \[[pdf](https://pdfs.semanticscholar.org/4c0c/f51fdcbb1da12f3c7e24479612fc15b9c1d3.pdf)\]
 - 2016-09-28: [Boltzmann Machines](http://people.stat.sfu.ca/~dac5/BoltzmannMachines.pdf), Geoffrey Hinton
 - 2016-09-14: [XGBoost: A Scalable Tree Boosting System](https://arxiv.org/abs/1603.02754), Tianqi Chen, Carlos Guestrin
 - 2016-08-31: [Visualizing Data using t-SNE](http://www.cs.toronto.edu/~hinton/absps/tsne.pdf), Laurens van der Maaten, Geoffrey Hinton
