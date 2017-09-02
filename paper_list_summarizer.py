@@ -26,25 +26,21 @@ def parse_markdown(markdown_content):
 
 def parse_files(files, archive_file=None):
     """parse_files"""
-    with open("summary.md", "w", encoding="utf8") as markdown_file:
-        output_content = "# Papers suggested to date\n\n"
-        for ffile in files:
-            try:
+    try:
+        with open("summary.md", "w", encoding="utf8") as markdown_file:
+            output_content = "# Papers suggested to date\n\n"
+            for ffile in files:
                 content = open(ffile, "r", encoding="utf8").read()
                 accepted, suggested = parse_markdown(content)
                 output_content += "# %s\n\n## Chosen Paper\n%s\n\n" \
                                   "## Other Suggestions\n%s\n\n" \
                                   % (ffile[:-3], accepted, suggested)
-            except Exception as exc:  # pylint: disable=broad-except
-                print("Caught an exception: %s " % exc)
-
-        if archive_file:
-            try:
+            if archive_file:
                 archive_content = open(archive_file, "r", encoding="utf8").read()
                 output_content += archive_content
-            except IOError as exc:
-                print("Couldn't parse archive file: %s" % exc)
-        markdown_file.write(output_content)
+            markdown_file.write(output_content)
+    except IOError as exc:
+        print("Caught IO Exception: %s" % exc)
 
 
 def main():
