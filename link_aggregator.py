@@ -27,8 +27,8 @@ def parse_files(files):
         try:
             content = open(ffile, 'r').read()
             accepted, suggested = parse_markdown(content)
-            output_content += "# %s\n\n##Chosen Paper\n%s\n\n" \
-                              "##Other Suggestions\n%s\n\n" \
+            output_content += "# %s\n\n## Chosen Paper\n%s\n\n" \
+                              "## Other Suggestions\n%s\n\n" \
                               % (ffile[:-3], accepted, suggested)
         except Exception as e:
             print "Caught an exception: %s " % e
