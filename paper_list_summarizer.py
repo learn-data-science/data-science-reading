@@ -40,7 +40,7 @@ def parse_files(files, archive_file=None):
                 output_content += archive_content
             markdown_file.write(output_content)
     except Exception as exc:  # pylint: disable=broad-except
-        print("Caught an exception: %s" % exc)
+        print("Bailing. Caught an exception: %s" % exc)
 
 
 def main():
