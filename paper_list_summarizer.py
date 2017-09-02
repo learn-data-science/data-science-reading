@@ -39,8 +39,8 @@ def parse_files(files, archive_file=None):
                 archive_content = open(archive_file, "r", encoding="utf8").read()
                 output_content += archive_content
             markdown_file.write(output_content)
-    except IOError as exc:
-        print("Caught IO Exception: %s" % exc)
+    except Exception as exc:  # pylint: disable=broad-except
+        print("Caught an exception: %s" % exc)
 
 
 def main():
