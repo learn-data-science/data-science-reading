@@ -1,5 +1,16 @@
 # Papers suggested to date
 
+# 2017-09-13
+
+## Chosen Paper
+[Learning to learn by gradient descent by gradient descent](http://papers.nips.cc/paper/6461-learning-to-learn-by-gradient-descent-by-gradient-descent.pdf), Marcin Andrychowicz, Misha Denil, Sergio Gómez Colmenarejo, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, Nando de Freitas
+
+## Other Suggestions
+* [Evidence of bias in the Eurovision song contest: modelling the votes using Bayesian hierarchical models](http://www.tandfonline.com/doi/full/10.1080/02664763.2014.909792), Marta Blangiardo, Gianluca Baio
+* [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167), Sergey Ioffe, Christian Szegedy
+* [BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](https://arxiv.org/abs/1708.06733), Tianyu Gu, Brendan Dolan-Gavitt, Siddharth Garg
+* [Attentive Recurrent Comparators](https://arxiv.org/abs/1703.00767), Pranav Shyam, Shubham Gupta, Ambedkar Dukkipati
+
 # 2017-08-30
 
 ## Chosen Paper
