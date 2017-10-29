@@ -1,5 +1,37 @@
 # Papers suggested to date
 
+# 2017-10-25
+
+## Chosen Paper
+[Speech Enhancement Using Bayesian Wavenet](https://pdfs.semanticscholar.org/1031/1242b016349ba14b56b5554353cf820985c9.pdf), Kaizhi Qian, Yang Zhang, Shiyu Chang, Xuesong Yang, Dinei Florencio, Mark Hasegawa-Johnson \[[code](https://github.com/auspicious3000/WaveNet-Enhancement)\]
+
+## Other Suggestions
+* [Age Progression/Regression by Conditional Adversarial Autoencoder](https://arxiv.org/abs/1702.08423), Zhifei Zhang, Yang Song, Hairong Qi
+* [Trust in numbers](http://www.rss.org.uk/Images/PDF/events/2017/President's-address-June-2017.pdf), David Spiegelhalter
+* [Training recurrent networks online without backtracking](https://arxiv.org/abs/1507.07680), Yann Ollivier, Corentin Tallec, Guillaume Charpiat
+* [Knowledge Vault: A Web-Scale Approach to Probabilistic Knowledge Fusion](https://www.cs.cmu.edu/~nlao/publication/2014.kdd.pdf), Xin Luna Dong, Evgeniy Gabrilovich, Geremy Heitz, Wilko Horn, Ni Lao, Kevin Murphy, Thomas Strohmann, Shaohua Sun, Wei Zhang
+* [Perturbations in Epidemiological Models: When zombies attack, we can survive!](http://www.tandfonline.com/doi/pdf/10.1080/23737867.2014.11414478), Robert F. Allen, Cassandra Jens & Theodore J. Wendt
+
+# 2017-10-11
+
+## Chosen Paper
+[If correlation doesn’t imply causation, then what does?](http://www.michaelnielsen.org/ddi/if-correlation-doesnt-imply-causation-then-what-does/), Michael Nielsen
+
+## Other Suggestions
+* [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122), Fisher Yu, Vladlen Koltun
+* [Perturbations in Epidemiological Models: When zombies attack, we can survive!](http://www.tandfonline.com/doi/pdf/10.1080/23737867.2014.11414478), Robert F. Allen, Cassandra Jens & Theodore J. Wendt
+
+# 2017-09-27
+
+## Chosen Paper
+[Evidence of bias in the Eurovision song contest: modelling the votes using Bayesian hierarchical models](https://arxiv.org/abs/1308.6312), Marta Blangiardo, Gianluca Baio
+
+## Other Suggestions
+* [](), 
+* [](), 
+* [](), 
+* [](),
+
 # 2017-09-13
 
 ## Chosen Paper
