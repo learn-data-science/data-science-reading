@@ -27,10 +27,9 @@
 [Evidence of bias in the Eurovision song contest: modelling the votes using Bayesian hierarchical models](https://arxiv.org/abs/1308.6312), Marta Blangiardo, Gianluca Baio
 
 ## Other Suggestions
-* [](), 
-* [](), 
-* [](), 
-* [](),
+* [Data Programming: Creating Large Training Sets, Quickly](https://arxiv.org/abs/1605.07723), Ratner, De Sa, Wu, Selsam, Ré
+* [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938v1.pdf), Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin
+* [Opening the Black Box of Deep Neural Networks via Information](https://arxiv.org/abs/1703.00810), Ravid Shwartz-Ziv, Naftali Tishby
 
 # 2017-09-13
 
