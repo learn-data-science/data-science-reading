@@ -1,6 +1,6 @@
 # Data Science Reading
 
-A useful summary of all proposed papers is [here](https://github.com/learn-data-science/data-science-reading/blob/master/summary.md).
+A single file listing all the proposed papers is [here](https://github.com/learn-data-science/data-science-reading/blob/master/summary.md).
 
 ## Backgrounders
 
