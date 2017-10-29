@@ -1,5 +1,7 @@
 # Data Science Reading
 
+A useful summary of all proposed papers is [here](https://github.com/learn-data-science/data-science-reading/blob/master/summary.md).
+
 ## Backgrounders
 
 * [Deep Clustering](https://github.com/learn-data-science/data-science-reading/tree/master/Deep%20Clustering)
@@ -36,9 +38,13 @@
 * [2017-05-24](https://github.com/learn-data-science/data-science-reading/blob/master/2017-05-24.md)
 * [2017-06-07](https://github.com/learn-data-science/data-science-reading/blob/master/2017-06-07.md)
 * [2017-06-21](https://github.com/learn-data-science/data-science-reading/blob/master/2017-06-21.md)
+* [2017-06-21](https://github.com/learn-data-science/data-science-reading/blob/master/2017-06-21.md)
 * [2017-07-05](https://github.com/learn-data-science/data-science-reading/blob/master/2017-07-05.md)
 * [2017-07-19](https://github.com/learn-data-science/data-science-reading/blob/master/2017-07-19.md)
 * [2017-08-02](https://github.com/learn-data-science/data-science-reading/blob/master/2017-08-02.md)
 * [2017-08-16](https://github.com/learn-data-science/data-science-reading/blob/master/2017-08-16.md)
 * [2017-08-30](https://github.com/learn-data-science/data-science-reading/blob/master/2017-08-30.md)
 * [2017-09-13](https://github.com/learn-data-science/data-science-reading/blob/master/2017-09-13.md)
+* [2017-09-27](https://github.com/learn-data-science/data-science-reading/blob/master/2017-09-27.md)
+* [2017-10-11](https://github.com/learn-data-science/data-science-reading/blob/master/2017-10-11.md)
+* [2017-10-25](https://github.com/learn-data-science/data-science-reading/blob/master/2017-10-25.md)
