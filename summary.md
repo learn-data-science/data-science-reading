@@ -1,5 +1,78 @@
 # Papers suggested to date
 
+# 2018-01-31
+
+## Chosen Paper
+[Missing-data imputation](http://www.stat.columbia.edu/~gelman/arm/missing.pdf), Andrew Gelman and Jennifer Hill
+
+## Other Suggestions
+* [Hybrid computing using a neural network with dynamic external memory](https://ora.ox.ac.uk/objects/uuid:dd8473bd-2d70-424d-881b-86d9c9c66b51/datastreams/bine2aea0d2-0f9c-43a5-b551-c9570284d9f0), A Graves, G Wayne, M Reynolds, T Harley, I Danihelka
+* [Spherical CNNS](https://openreview.net/pdf?id=Hkbd5xZRb), Taco S. Cohen, Mario Geiger, Jonas Köhler, Max Welling
+* [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640), Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi
+
+# 2018-01-17
+
+## Chosen Paper
+[Probabilistic record linkage](https://academic.oup.com/ije/article-lookup/doi/10.1093/ije/dyv322), Adrian Sayers, Yoav Ben-Shlomo, Ashley W Blom and Fiona Steele
+
+## Other Suggestions
+* [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640), Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi
+* [Virtual Adversarial Ladder Networks For Semi-supervised Learning](https://arxiv.org/abs/1711.07476), Saki Shinoda, Daniel E. Worrall, Gabriel J. Brostow
+* [Equation-free mechanistic ecosystem forecasting using empirical dynamic modeling](http://www.pnas.org/content/112/13/E1569.long), Hao Ye, Richard J. Beamish, Sarah M. Glaser, Sue C. H. Grant, Chih-hao Hsieh, Laura J. Richards, Jon T. Schnute and George Sugihara
+* [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815), David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore Graepel, Timothy Lillicrap, Karen Simonyan, Demis Hassabis
+* [Character-level Convolutional Networks for Text Classification](http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica), Xiang Zhang, Junbo Zhao, Yann LeCun
+
+# 2018-01-03
+
+## Chosen Paper
+[PD-Sparse : A Primal and Dual Sparse Approach to Extreme Multiclass and Multilabel Classification](http://proceedings.mlr.press/v48/yenb16.pdf), Ian E. H. Yen, Xiangru Huang, Kai Zhong, Pradeep Ravikumar, Inderjit S. Dhillon
+
+## Other Suggestions
+(missing at the moment)
+
+* [](), 
+* [](), 
+* [](), 
+* [](), 
+* [](),
+
+# 2017-12-06
+
+## Chosen Paper
+[Opening the Black Box of Deep Neural Networks via Information](https://arxiv.org/abs/1703.00810), Ravid Shwartz-Ziv, Naftali Tishby
+
+## Other Suggestions
+(missing, at the moment)
+
+* [](), 
+* [](), 
+* [](), 
+* [](), 
+* [](),
+
+# 2017-11-22
+
+## Chosen Paper
+[Solving a Higgs optimization problem with quantum annealing for machine learning](https://www.nature.com/articles/nature24047), Alex Mott, Joshua Job, Jean-Roch Vlimant, Daniel Lidar & Maria Spiropulu
+
+## Other Suggestions
+* [Bayesian Inference for Assessing Effects of Email Marketing Campaigns](https://dash.harvard.edu/bitstream/handle/1/28552972/Wu_Li_Liu2016.pdf?sequence=4), Wu, Jiexing, Kate J. Li, and Jun S. Liu
+* [Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2016.00023/full), Jeff Hawkins and Subutai Ahmad
+* [Matrix capsules with EM routing](https://openreview.net/forum?id=HJWLfGWRb), Geoffrey E Hinton, Sara Sabour, Nicholas Frosst
+* [End-To-End Memory Networks](http://papers.nips.cc/paper/5846-end-to-end-memory-networks), Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus
+
+# 2017-11-08
+
+## Chosen Paper
+[Dynamic Routing Between Capsules](http://papers.nips.cc/paper/6975-dynamic-routing-between-capsules), Sara Sabour, Nicholas Frosst, Geoffrey E. Hinton
+
+## Other Suggestions
+* [Word Translation Without Parallel Data](https://arxiv.org/abs/1710.04087), Alexis Conneau, Guillaume Lample, Marc'Aurelio Ranzato, Ludovic Denoyer, Hervé Jégou
+* [Practical Bayesian Inference for Record Linkage](https://arxiv.org/abs/1710.10558), Brendan S. McVeigh, Jared S. Murray
+* [Deep Illumination: Approximating Dynamic Global Illumination with Generative Adversarial Network](https://arxiv.org/abs/1710.09834), Manu Mathew Thomas, Angus G. Forbes
+* [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499), Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu
+* [Conditional Random Fields as Recurrent Neural Networks](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Conditional_Random_Fields_ICCV_2015_paper.pdf), Shuai Zheng, Sadeep Jayasumana, Bernardino Romera-Paredes, Vibhav Vineet, Zhizhong Su3 Dalong Du, Chang Huang, Philip H. S. Torr
+
 # 2017-10-25
 
 ## Chosen Paper
