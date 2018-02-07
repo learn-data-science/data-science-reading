@@ -28,13 +28,9 @@
 [PD-Sparse : A Primal and Dual Sparse Approach to Extreme Multiclass and Multilabel Classification](http://proceedings.mlr.press/v48/yenb16.pdf), Ian E. H. Yen, Xiangru Huang, Kai Zhong, Pradeep Ravikumar, Inderjit S. Dhillon
 
 ## Other Suggestions
-(missing at the moment)
-
-* [](), 
-* [](), 
-* [](), 
-* [](), 
-* [](),
+* [DeepZip: Lossless Compression using Recurrent Networks](https://pdfs.semanticscholar.org/6a70/3b8be6db81af05628ff6897feb6bf8940a8d.pdf), Kedar Tatwawadi
+* [Equation-free mechanistic ecosystem forecasting using empirical dynamic modeling](http://www.pnas.org/content/112/13/E1569.long), Hao Ye, Richard J. Beamish, Sarah M. Glaser, Sue C. H. Grant, Chih-hao Hsieh, Laura J. Richards, Jon T. Schnute and George Sugihara
+* [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815), David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore Graepel, Timothy Lillicrap, Karen Simonyan, Demis Hassabis
 
 # 2017-12-06
 
@@ -42,13 +38,11 @@
 [Opening the Black Box of Deep Neural Networks via Information](https://arxiv.org/abs/1703.00810), Ravid Shwartz-Ziv, Naftali Tishby
 
 ## Other Suggestions
-(missing, at the moment)
-
-* [](), 
-* [](), 
-* [](), 
-* [](), 
-* [](),
+* [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530), Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals
+* [Transformation invariant and outlier revealing dimensionality reduction using triplet embedding](https://pdfs.semanticscholar.org/4f45/7460407241fc4872dd7bfaad7771e6a4b081.pdf), Ehsan Amid, Manfred K. Warmuth
+* [When to conduct probabilistic linkage vs. deterministic linkage? A simulation study](https://www.sciencedirect.com/science/article/pii/S1532046415000921), Y Zhu, Y Matsuyama, Y Ohashi, S Setoguchi
+* [Word Translation Without Parallel Data](https://arxiv.org/abs/1710.04087), Alexis Conneau, Guillaume Lample, Marc'Aurelio Ranzato, Ludovic Denoyer, Hervé Jégou
+* [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012), Barret Zoph, Vijay Vasudevan, Jonathon Shlens, Quoc V. Le
 
 # 2017-11-22
 
