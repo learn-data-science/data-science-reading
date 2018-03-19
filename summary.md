@@ -1,5 +1,24 @@
 # Papers suggested to date
 
+# 2018-03-14
+
+## Chosen Paper
+[Deep Image Prior](https://arxiv.org/abs/1711.10925), Dmitry Ulyanov, Andrea Vedaldi, Victor Lempitsky
+
+## Other Suggestions
+* [The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities](https://arxiv.org/abs/1803.03453), Joel Lehman, Jeff Clune, Dusan Misevic, Christoph Adami, Julie Beaulieu, Peter J. Bentley, Samuel Bernard, Guillaume Belson, David M. Bryson, Nick Cheney, Antoine Cully, Stephane Donciuex, Fred C. Dyer, Kai Olav Ellefsen, Robert Feldt, Stephan Fischer, Stephanie Forrest, Antoine Frénoy, Christian Gagneé, Leni Le Goff, Laura M. Grabowski, Babak Hodjat, Laurent Keller, Carole Knibbe, Peter Krcah, Richard E. Lenski, Hod Lipson, Robert MacCurdy, Carlos Maestre, Risto Miikkulainen, Sara Mitri, David E. Moriarty, Jean-Baptiste Mouret, Anh Nguyen, Charles Ofria, Marc Parizeau, David Parsons, Robert T. Pennock, William F. Punch, Thomas S. Ray, Marc Schoenauer, Eric Shulte, Karl Sims, Kenneth O. Stanley, François Taddei, Danesh Tarapore, Simon Thibault, Westley Weimer, Richard Watson, et al. (1 additional author not shown)
+* [Distilling a Neural Network Into a Soft Decision Tree](https://arxiv.org/abs/1711.09784), Nicholas Frosst, Geoffrey Hinton
+
+# 2018-02-28
+
+## Chosen Paper
+[Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531), Geoffrey Hinton, Oriol Vinyals, Jeff Dean
+
+## Other Suggestions
+* [Unsupervised Word Mapping Using Structural Similarities in Monolingual Embeddings](https://arxiv.org/abs/1712.06961), Hanan Aldarmaki, Mahesh Mohan, Mona Diab
+* [The philosophy of Bayes factors and the quantification of statistical evidence](https://www.sciencedirect.com/science/article/pii/S0022249615000723), Richard D. Morey, Jan-Willem Romeijn, Jeffrey N. Rouder
+* [The Secret Sharer: Measuring Unintended Neural Network Memorization & Extracting Secrets](https://arxiv.org/abs/1802.08232), Nicholas Carlini, Chang Liu, Jernej Kos, Úlfar Erlingsson, Dawn Song
+
 # 2018-01-31
 
 ## Chosen Paper
