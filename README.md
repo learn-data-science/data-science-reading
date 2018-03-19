@@ -1,6 +1,12 @@
 # Data Science Reading
 
-A single file listing all the proposed papers is [here](https://github.com/learn-data-science/data-science-reading/blob/master/summary.md).
+## Selected papers in 2016
+
+* [2016](archives_2016.md)
+
+## Selected and proposed papers after 2016-10-12
+
+See [summary of all papers](summary.md) or individual files with the name `YYYY-MM-DD.md`.
 
 ## Backgrounders
 
@@ -8,43 +14,3 @@ A single file listing all the proposed papers is [here](https://github.com/learn
 * [Gaussian Processes](https://github.com/learn-data-science/data-science-reading/tree/master/Gaussian%20Processes)
 * [Image Processing](https://github.com/learn-data-science/data-science-reading/tree/master/image%20processing)
 * [Rating Prediction](https://github.com/learn-data-science/data-science-reading/tree/master/rating%20prediction)
-
-## Selected Papers
-
-* [2016](https://github.com/learn-data-science/data-science-reading/blob/master/archives_2016.md)
-
-## Proposed Papers by Meetup Date
-
-### 2016
-
-* [2016-10-12](https://github.com/learn-data-science/data-science-reading/blob/master/2016-10-12.md)
-* [2016-10-26](https://github.com/learn-data-science/data-science-reading/blob/master/2016-10-26.md)
-* [2016-11-09](https://github.com/learn-data-science/data-science-reading/blob/master/2016-11-09.md)
-* [2016-11-23](https://github.com/learn-data-science/data-science-reading/blob/master/2016-11-23.md)
-* [2016-12-07](https://github.com/learn-data-science/data-science-reading/blob/master/2016-12-07.md)
-
-### 2017
-
-* [2017-01-04](https://github.com/learn-data-science/data-science-reading/blob/master/2017-01-04.md)
-* [2017-01-18](https://github.com/learn-data-science/data-science-reading/blob/master/2017-01-18.md)
-* [2017-02-01](https://github.com/learn-data-science/data-science-reading/blob/master/2017-02-01.md)
-* [2017-02-15](https://github.com/learn-data-science/data-science-reading/blob/master/2017-02-15.md)
-* [2017-03-01](https://github.com/learn-data-science/data-science-reading/blob/master/2017-03-01.md)
-* [2017-03-15](https://github.com/learn-data-science/data-science-reading/blob/master/2017-03-15.md)
-* [2017-03-29](https://github.com/learn-data-science/data-science-reading/blob/master/2017-03-29.md)
-* [2017-04-12](https://github.com/learn-data-science/data-science-reading/blob/master/2017-04-12.md)
-* [2017-04-26](https://github.com/learn-data-science/data-science-reading/blob/master/2017-04-26.md)
-* [2017-05-10](https://github.com/learn-data-science/data-science-reading/blob/master/2017-05-10.md)
-* [2017-05-24](https://github.com/learn-data-science/data-science-reading/blob/master/2017-05-24.md)
-* [2017-06-07](https://github.com/learn-data-science/data-science-reading/blob/master/2017-06-07.md)
-* [2017-06-21](https://github.com/learn-data-science/data-science-reading/blob/master/2017-06-21.md)
-* [2017-06-21](https://github.com/learn-data-science/data-science-reading/blob/master/2017-06-21.md)
-* [2017-07-05](https://github.com/learn-data-science/data-science-reading/blob/master/2017-07-05.md)
-* [2017-07-19](https://github.com/learn-data-science/data-science-reading/blob/master/2017-07-19.md)
-* [2017-08-02](https://github.com/learn-data-science/data-science-reading/blob/master/2017-08-02.md)
-* [2017-08-16](https://github.com/learn-data-science/data-science-reading/blob/master/2017-08-16.md)
-* [2017-08-30](https://github.com/learn-data-science/data-science-reading/blob/master/2017-08-30.md)
-* [2017-09-13](https://github.com/learn-data-science/data-science-reading/blob/master/2017-09-13.md)
-* [2017-09-27](https://github.com/learn-data-science/data-science-reading/blob/master/2017-09-27.md)
-* [2017-10-11](https://github.com/learn-data-science/data-science-reading/blob/master/2017-10-11.md)
-* [2017-10-25](https://github.com/learn-data-science/data-science-reading/blob/master/2017-10-25.md)
