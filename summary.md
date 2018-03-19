@@ -3,7 +3,7 @@
 # 2018-03-14
 
 ## Chosen Paper
-[Deep Image Prior](https://arxiv.org/abs/1711.10925), Dmitry Ulyanov, Andrea Vedaldi, Victor Lempitsky
+[Deep Image Prior](https://arxiv.org/abs/1711.10925), Dmitry Ulyanov, Andrea Vedaldi, Victor Lempitsky \[[blog](https://dmitryulyanov.github.io/deep_image_prior)\] \[[supplementary material](https://box.skoltech.ru/index.php/s/ib52BOoV58ztuPM#pdfviewer)\] \[[code](https://github.com/DmitryUlyanov/deep-image-prior)\]
 
 ## Other Suggestions
 * [The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities](https://arxiv.org/abs/1803.03453), Joel Lehman, Jeff Clune, Dusan Misevic, Christoph Adami, Julie Beaulieu, Peter J. Bentley, Samuel Bernard, Guillaume Belson, David M. Bryson, Nick Cheney, Antoine Cully, Stephane Donciuex, Fred C. Dyer, Kai Olav Ellefsen, Robert Feldt, Stephan Fischer, Stephanie Forrest, Antoine Frénoy, Christian Gagneé, Leni Le Goff, Laura M. Grabowski, Babak Hodjat, Laurent Keller, Carole Knibbe, Peter Krcah, Richard E. Lenski, Hod Lipson, Robert MacCurdy, Carlos Maestre, Risto Miikkulainen, Sara Mitri, David E. Moriarty, Jean-Baptiste Mouret, Anh Nguyen, Charles Ofria, Marc Parizeau, David Parsons, Robert T. Pennock, William F. Punch, Thomas S. Ray, Marc Schoenauer, Eric Shulte, Karl Sims, Kenneth O. Stanley, François Taddei, Danesh Tarapore, Simon Thibault, Westley Weimer, Richard Watson, et al. (1 additional author not shown)
