@@ -1,5 +1,15 @@
 # Papers suggested to date
 
+# 2018-03-28
+
+## Chosen Paper
+[Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515), Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter
+
+## Other Suggestions
+* [Improving Generalization Performance by Switching from Adam to SGD](https://arxiv.org/abs/1712.07628), Nitish Shirish Keskar, Richard Socher
+* [Can you Trust the Trend: Discovering Simpson's Paradoxes in Social Data](https://arxiv.org/abs/1801.04385), Nazanin Alipourfard, Peter G. Fennell, Kristina Lerman
+* [Word Translation Without Parallel Data](https://arxiv.org/abs/1710.04087), Alexis Conneau, Guillaume Lample, Marc'Aurelio Ranzato, Ludovic Denoyer, Hervé Jégou
+
 # 2018-03-14
 
 ## Chosen Paper
