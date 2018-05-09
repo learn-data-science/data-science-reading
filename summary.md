@@ -1,5 +1,23 @@
 # Papers suggested to date
 
+# 2018-04-25
+
+## Chosen Paper
+[The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities](https://arxiv.org/abs/1803.03453), Joel Lehman et al.
+
+## Other Suggestions
+* [The Marginal Value of Adaptive Gradient Methods in Machine Learning](http://papers.nips.cc/paper/7003-the-marginal-value-of-adaptive-gradient-methods-in-machine-learning), Ashia C. Wilson, Rebecca Roelofs, Mitchell Stern, Nati Srebro, Benjamin Recht
+* [Stability](https://projecteuclid.org/euclid.bj/1377612862), Bin Yu
+
+# 2018-04-11
+
+## Chosen Paper
+[Topological Data Analysis](https://arxiv.org/abs/1609.08227), Larry Wasserman
+
+## Other Suggestions
+* [Data2Vis: Automatic Generation of Data Visualizations Using Sequence to Sequence Recurrent Neural Networks](https://arxiv.org/abs/1804.03126), Victor Dibia, Çagatay Demiralp
+* [http://papers.nips.cc/paper/7181-attention-is-all-you-need](http://papers.nips.cc/paper/7181-attention-is-all-you-need), Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin
+
 # 2018-03-28
 
 ## Chosen Paper
