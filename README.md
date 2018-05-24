@@ -1,12 +1,12 @@
 # Data Science Reading
 
-## Selected papers in 2016
-
-* [2016](archives_2016.md)
-
 ## Selected and proposed papers after 2016-10-12
 
 See [summary of all papers](summary.md) or individual files with the name `YYYY-MM-DD.md`.
+
+## Selected papers in 2016
+
+* [2016](archives_2016.md)
 
 ## Backgrounders
 
