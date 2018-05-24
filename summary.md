@@ -1,13 +1,34 @@
 # Papers suggested to date
 
+# 2018-05-23
+
+## Chosen Paper
+[Looking to Listen at the Cocktail Party: A Speaker-Independent Audio-Visual Model for Speech Separation](https://arxiv.org/abs/1804.03619), Ariel Ephrat, Inbar Mosseri, Oran Lang, Tali Dekel, Kevin Wilson, Avinatan Hassidim, William T. Freeman, Michael Rubinstein
+
+## Other Suggestions
+* [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437), Juncen Li, Robin Jia, He He, Percy Liang
+* [Poincaré Embeddings for Learning Hierarchical Representations](http://papers.nips.cc/paper/7213-poincare-embeddings-for-learning-hierarchical-representations), Maximillian Nickel, Douwe Kiela
+* [Attention is All You Need](http://papers.nips.cc/paper/7181-attention-is-all-you-need), Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin
+
+# 2018-05-09
+
+## Chosen Paper
+[Bayesians, Frequentists, and Scientists](https://www.researchgate.net/profile/Andrew_Messing/post/Can_anyone_recommend_to_me_a_rigorous_discussion_on_the_difference_between_frequentist_and_Bayesian_interpretations_of_probability/attachment/59d61ddc79197b807797b25c/AS:273743820066822@1442277020944/download/Bayesians%2C+Frequentists%2C+and+Scientists.pdf), Bradley Efron
+
+## Other Suggestions
+* [Attention Is All You Need](http://papers.nips.cc/paper/7181-attention-is-all-you-need), Ashish Vaswani, Noam Shazee, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin
+* [Is Most Published Research Really False?](https://www.annualreviews.org/doi/full/10.1146/annurev-statistics-060116-054104), Jeffrey T. Leek and Leah R. Jager
+* [Cluster failure: Why fMRI inferences for spatial extent have inflated false-positive rates](http://www.pnas.org/content/113/28/7900.short), Anders Eklund, Thomas E. Nichols, and Hans Knutsson
+* [Equality of Opportunity in Supervised Learning](http://papers.nips.cc/paper/6373-equality-of-opportunity-in-supervised-learning), Moritz Hardt, Eric Price, Nathan Srebro
+
 # 2018-04-25
 
 ## Chosen Paper
-[The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities](https://arxiv.org/abs/1803.03453), Joel Lehman et al.
+[Stability](https://projecteuclid.org/euclid.bj/1377612862), Bin Yu
 
 ## Other Suggestions
 * [The Marginal Value of Adaptive Gradient Methods in Machine Learning](http://papers.nips.cc/paper/7003-the-marginal-value-of-adaptive-gradient-methods-in-machine-learning), Ashia C. Wilson, Rebecca Roelofs, Mitchell Stern, Nati Srebro, Benjamin Recht
-* [Stability](https://projecteuclid.org/euclid.bj/1377612862), Bin Yu
+* [The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities](https://arxiv.org/abs/1803.03453), Joel Lehman et al.
 
 # 2018-04-11
 
