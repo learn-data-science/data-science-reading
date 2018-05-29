@@ -3,7 +3,7 @@
 # 2018-05-23
 
 ## Chosen Paper
-[Looking to Listen at the Cocktail Party: A Speaker-Independent Audio-Visual Model for Speech Separation](https://arxiv.org/abs/1804.03619), Ariel Ephrat, Inbar Mosseri, Oran Lang, Tali Dekel, Kevin Wilson, Avinatan Hassidim, William T. Freeman, Michael Rubinstein
+[Looking to Listen at the Cocktail Party: A Speaker-Independent Audio-Visual Model for Speech Separation](https://arxiv.org/abs/1804.03619), Ariel Ephrat, Inbar Mosseri, Oran Lang, Tali Dekel, Kevin Wilson, Avinatan Hassidim, William T. Freeman, Michael Rubinstein \[[blog](https://ai.googleblog.com/2018/04/looking-to-listen-audio-visual-speech.html)\] \[[video](https://www.youtube.com/watch?v=rVQVAPiJWKU)\] \[[webpage](https://looking-to-listen.github.io/)\]
 
 ## Other Suggestions
 * [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437), Juncen Li, Robin Jia, He He, Percy Liang
