@@ -1,5 +1,14 @@
 # Papers suggested to date
 
+# 2018-06-06
+
+## Chosen Paper
+[No Free Lunch Theorems for Optimization](http://georgemaciunas.com/wp-content/uploads/2012/07/Wolpert_NLFoptimization-1.pdf), D.H. Wolpert, W.G. Macready
+
+## Other Suggestions
+* [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/abs/1804.06437), Juncen Li, Robin Jia, He He, Percy Liang
+* [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501), Ekin D. Cubuk, Barret Zoph, Dandelion Mane, Vijay Vasudevan, Quoc V. Le
+
 # 2018-05-23
 
 ## Chosen Paper
