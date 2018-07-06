@@ -1,5 +1,27 @@
 # Papers suggested to date
 
+# 2018-07-04
+
+## Chosen Paper
+[DeepTest: Automated Testing of Deep-Neural-Network-driven Autonomous Cars](https://arxiv.org/abs/1708.08559), Yuchi Tian, Kexin Pei, Suman Jana, Baishakhi Ray
+
+## Other Suggestions
+* [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971), Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra
+* [DSOS and SDSOS Optimization: More Tractable Alternatives to Sum of Squares and Semidefinite Optimization](https://arxiv.org/abs/1706.02586), Amir Ali Ahmadi, Anirudha Majumdar
+* [Gradient-based optimization of neural network architectures](https://openreview.net/forum?id=HkSm8t1PM), Will Grathwohl, Elliot Creager, Seyed Kamyar Seyed Ghasemipour, Richard Zemel
+
+# 2018-06-20
+
+## Chosen Paper
+[Probabilistic Numerics and Uncertainty in Computations](https://arxiv.org/abs/1506.01326), Philipp Hennig, Michael A Osborne, Mark Girolami
+
+## Other Suggestions
+* [Solving the Rubik's Cube Without Human Knowledge](https://arxiv.org/abs/1805.07470), Stephen McAleer, Forest Agostinelli, Alexander Shmakov, Pierre Baldi
+* [CleanNet: Transfer Learning for Scalable Image Classifier Training with Label Noise](https://arxiv.org/abs/1711.07131), Kuang-Huei Lee, Xiaodong He, Lei Zhang, Linjun Yang
+* [DeepTest: Automated Testing of Deep-Neural-Network-driven Autonomous Cars](https://arxiv.org/abs/1708.08559), Yuchi Tian, Kexin Pei, Suman Jana, Baishakhi Ray
+* [Neural scene representation and rendering](http://science.sciencemag.org/content/360/6394/1204.full), S. M. Ali Eslami, Danilo Jimenez Rezende, Frederic Besse, et al.
+* [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146), Jeremy Howard, Sebastian Ruder
+
 # 2018-06-06
 
 ## Chosen Paper
