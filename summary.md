@@ -1,5 +1,14 @@
 # Papers suggested to date
 
+# 2018-07-18
+
+## Chosen Paper
+[Conditional Neural Processes](https://arxiv.org/abs/1807.01613), Marta Garnelo, Dan Rosenbaum, Chris J. Maddison, Tiago Ramalho, David Saxton, Murray Shanahan, Yee Whye Teh, Danilo J. Rezende, S. M. Ali Eslami
+
+## Other Suggestions
+* [Table-to-text Generation by Structure-aware Seq2seq Learning](https://arxiv.org/abs/1711.09724), Tianyu Liu, Kexiang Wang, Lei Sha, Baobao Chang, Zhifang Sui
+* [Curriculum Learning](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.149.4701), Yoshua Bengio, Jérôme Louradour, Ronan Collobert, Jason Weston
+
 # 2018-07-04
 
 ## Chosen Paper
