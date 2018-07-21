@@ -23,7 +23,7 @@
     - attendees appreciate it
 - does your laptop have a _real_ HDMI output?
     - adapters don't work well
-    - if you don't have HDMI, let the organizers and we'll figure something out
+    - if you don't have HDMI, let the organizers know and we'll figure something out
 
 ## On the day
 
