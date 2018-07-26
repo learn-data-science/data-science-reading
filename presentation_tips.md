@@ -16,6 +16,8 @@
 - plan to present for **one hour, including Q&A**
 - it's good to have some extra, expendable material in case time runs short
 - check out [Bruce's blog post](http://blog.kaggle.com/2017/08/09/learn-data-science-from-kaggle-competition-meetups/) of presentation tips
+- Here's a list of [winning solutions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions). Not sure how complete it is, but if your competition is there, it will be a big help
+- use a big font where possible--much of the audience is far from the screen
 
 ## The day before
 
@@ -34,4 +36,4 @@
     - there are always glitches, this gives us time to fix problems
 - wear a solid color top
     - yes, we're talking about your fashion choices
-    - patterns and stripes cause weird Moiré patterns in the video
+    - why solid color? patterns and stripes cause weird Moiré effects in the video
