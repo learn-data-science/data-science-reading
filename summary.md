@@ -1,5 +1,27 @@
 # Papers suggested to date
 
+# 2018-08-15
+
+## Chosen Paper
+[BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/abs/1205.2618), Steffen Rendle, Christoph Freudenthaler, Zeno Gantner, Lars Schmidt-Thieme
+
+## Other Suggestions
+* [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004), Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros
+* [Yes, but Did It Work?: Evaluating Variational Inference](https://arxiv.org/abs/1802.02538), Yuling Yao, Aki Vehtari, Daniel Simpson, Andrew Gelman
+
+# 2018-08-01
+
+## Chosen Paper
+[A Principled Bayesian Workflow](https://betanalpha.github.io/assets/case_studies/principled_bayesian_workflow.html), Michael Betancourt
+
+## Other Suggestions
+* [Deep Complex Networks](https://arxiv.org/abs/1705.09792), Chiheb Trabelsi, et al.
+* [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004), Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros
+* [Adversarial Reprogramming of Neural Networks](https://arxiv.org/abs/1806.11146), Gamaleldin F. Elsayed, Ian Goodfellow, Jascha Sohl-Dickstein
+* [This looks like that: deep learning for interpretable image recognition](https://arxiv.org/abs/1806.10574), Chaofan Chen, Oscar Li, Alina Barnett, Jonathan Su, Cynthia Rudin
+* [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7352306), Bobak Shahriari, Kevin Swersky, Ziyu Wang, Ryan P. Adams, and Nando de Freitas
+* [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829), Sara Sabour, Nicholas Frosst, Geoffrey E Hinton
+
 # 2018-07-18
 
 ## Chosen Paper
@@ -463,6 +485,18 @@ Duy Vu, Brian Francis \[[slides](http://mathsofplanetearth.org.au/wp-content/upl
 * [Equality of Opportunity in Supervised Learning](https://drive.google.com/file/d/0B-wQVEjH9yuhanpyQjUwQS1JOTQ/view), Moritz Hardt, Eric Price, Nathan Srebro
 * [Dynamic Memory Networks for Visual and Textual Question Answering](https://arxiv.org/abs/1603.01417), Caiming Xiong, Stephen Merity, Richard Socher
 * [Detecting events and key actors in multi-person videos](https://arxiv.org/abs/1511.02917), Vignesh Ramanathan, Jonathan Huang, Sami Abu-El-Haija, Alexander Gorban, Kevin Murphy, Li Fei-Fei
+
+# 2015-11-25
+
+## Chosen Paper
+[Parameter estimation for text analysis](http://www.arbylon.net/publications/text-est.pdf), Gregor Heinrich
+
+## Other Suggestions
+* [Stan:  A probabilistic programming language for Bayesian inference and optimization](http://www.stat.columbia.edu/~gelman/research/published/stan_jebs_2.pdf), Andrew Gelman, Daniel Lee, Jiqiang Guo
+* [No free lunch theorems for optimization](https://ti.arc.nasa.gov/m/profile/dhw/papers/78.pdf), David H. Wolpert, William G. Macready
+* [Towards a Mathematical Theory of Cortical Micro-circuits](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000532), Dileep George, Jeff Hawkins
+* [Expectation propagation as a way of life: A framework for Bayesian inference on partitioned data](https://arxiv.org/abs/1412.4869), Aki Vehtari, Andrew Gelman, Tuomas Sivula, Pasi Jylänki, Dustin Tran, Swupnil Sahai, Paul Blomstedt, John P. Cunningham, David Schiminovich, Christian Robert
+* [The Model Complexity Myth](https://jakevdp.github.io/blog/2015/07/06/model-complexity-myth/), Jake VanderPlas
 
 # 2016 Archives
 

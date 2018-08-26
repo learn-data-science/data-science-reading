@@ -6,7 +6,11 @@ from io import open  # pylint: disable=redefined-builtin
 import time
 
 
-_EXCLUDE_FILES = {"README.md", "archives_2016.md", "summary.md"}
+_EXCLUDE_FILES = {
+    "README.md",
+    "archives_2016.md",
+    "summary.md",
+    "presentation_tips.md"}
 _ACCEPTED_PAPER_HEADING = "## Chosen paper"
 _OTHER_PAPERS_HEADING = "## Other suggestions"
 
