@@ -4,36 +4,37 @@
 
 - Normally we choose a competition that has ended
 - Learner or playground competitions are possible though
-- go to the Kaggle [competitions page](https://www.kaggle.com/competitions)
+- Go to the Kaggle [competitions page](https://www.kaggle.com/competitions)
 - Sort by _Latest deadline_ to put the most recent competitons at the top
-- scroll down until you find a competition of interest
-- check that the competition hasn't already been presented
+- Scroll down until you find a competition of interest
+- Check that the competition hasn't already been presented
     - check the [log of past meetups](https://docs.google.com/spreadsheets/d/1dmunY2g2Is-S6PlfKVZy_99zbIGvVD-f4Omu_rcXrLo/edit?usp=sharing)
     - check the [pipeline of upcoming meetups](https://docs.google.com/spreadsheets/d/1YOVuiNuKMd6A5QCLNnNXCZX7UxiCL4dKv5bOq8K0gmw/edit?usp=sharing)
 
 ## Preparing the presentation
 
-- plan to present for **one hour**, this will allow for about 15 minutes Q&A during and after the talk
-- it's good to have some extra, expendable material in case time runs short
-- check out [Bruce's blog post](http://blog.kaggle.com/2017/08/09/learn-data-science-from-kaggle-competition-meetups/) of presentation tips
+- Plan to present for **one hour**, this will allow for about 15 minutes Q&A during and after the talk
+- It's good to have some extra, expendable material in case time runs short
+- Check out [Bruce's blog post](http://blog.kaggle.com/2017/08/09/learn-data-science-from-kaggle-competition-meetups/) of presentation tips
+- One tweak on what it says in that blog post. It says don't try to explain a complicated topic in two minutes. But what we have found is that attendees like it when you pick one specific topic that comes up in a competition (what does AUC mean? what is transposed convolution?) and spend a bit of time to explain it from scratch, for someone who's never heard of it before.
 - Here's a list of [winning solutions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions). Not sure how complete it is, but if your competition is there, it will be a big help
-- use a big font where possible--much of the audience is far from the screen
+- Use a big font where possible--much of the audience is far from the screen
 
 ## The day before
 
-- post your presentation slides, even if unfinished
+- Post your presentation slides, even if unfinished
     - attendees appreciate it
-- does your laptop have a _real_ HDMI output?
-    - adapters don't work well
-    - if you don't have HDMI, let the organizers know and we'll figure something out
+- Does your laptop have a _real_ HDMI output?
+    - Adapters don't work well
+    - If you don't have HDMI, let the organizers know and we'll figure something out
 
 ## On the day
 
-- bring a mouse if you've got one
-    - you can use the mouse as a pseudo laser pointer
-    - works well for the audience, live stream viewers, and video recording
-- show up at least half an hour before the start (i.e., 6:00pm)
-    - there are always glitches, this gives us time to fix problems
-- wear a solid color top
-    - yes, we're talking about your fashion choices
-    - why solid color? patterns and stripes cause weird Moiré effects in the video
+- Bring a mouse if you've got one
+    - You can use the mouse as a pseudo laser pointer
+    - Works well for the audience, live stream viewers, and video recording
+- Show up at least half an hour before the start (i.e., 6:00pm)
+    - There are always glitches, this gives us time to fix problems
+- Wear a solid color top
+    - Yes, we're talking about your fashion choices
+    - Why solid color? patterns and stripes cause weird Moiré effects in the video
