@@ -1,5 +1,24 @@
 # Papers suggested to date
 
+# 2018-09-12
+
+## Chosen Paper
+[GAN Lab: Understanding Complex Deep Generative Models using Interactive Visual Experimentation](https://arxiv.org/abs/1809.01587), Minsuk Kahng, Nikhil Thorat, Duen Horng Chau, Fernanda Viégas, Martin Wattenberg
+
+## Other Suggestions
+* [A Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434), Michael Betancourt
+* [Factors associated with supermarket and convenience store closure: a discrete time spatial survival modelling approach (paywall)](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/rssa.12330), Joshua L. Warren, Penny Gordon‐Larsen
+
+# 2018-08-29
+
+## Chosen Paper
+[Snorkel: Rapid Training Data Creation with Weak Supervision](https://arxiv.org/abs/1711.10160), Alexander Ratner, Stephen H. Bach, Henry Ehrenberg, Jason Fries, Sen Wu, Christopher Ré
+
+## Other Suggestions
+* [Factors associated with supermarket and convenience store closure: a discrete time spatial survival modelling approach (paywall)](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/rssa.12330), Joshua L. Warren, Penny Gordon‐Larsen
+* [Deep learning via Hessian-free optimization](http://www.cs.toronto.edu/~jmartens/docs/Deep_HessianFree.pdf), James Martens
+* [Neural Combinatorial Optimization with Reinforcement Learning](https://arxiv.org/abs/1611.09940), Irwan Bello, Hieu Pham, Quoc V. Le, Mohammad Norouzi, Samy Bengio
+
 # 2018-08-15
 
 ## Chosen Paper
