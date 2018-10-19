@@ -2,12 +2,12 @@
 
 ## Choosing a competition
 
-- Normally we choose a competition that has ended
-- Learner or playground competitions are possible though
+- Normally we choose a "real" competition that has ended
+    - Learner or playground competitions are possible though
 - Go to the Kaggle [competitions page](https://www.kaggle.com/competitions)
 - Sort by _Latest deadline_ to put the most recent competitons at the top
 - Scroll down until you find a competition of interest
-- Check that the competition hasn't already been presented
+- Check that the competition hasn't already been presented and isn't scheduled
     - check the [log of past meetups](https://docs.google.com/spreadsheets/d/1dmunY2g2Is-S6PlfKVZy_99zbIGvVD-f4Omu_rcXrLo/edit?usp=sharing)
     - check the [pipeline of upcoming meetups](https://docs.google.com/spreadsheets/d/1YOVuiNuKMd6A5QCLNnNXCZX7UxiCL4dKv5bOq8K0gmw/edit?usp=sharing)
 
@@ -16,9 +16,12 @@
 - Plan to present for **one hour**, this will allow for about 15 minutes Q&A during and after the talk
 - It's good to have some extra, expendable material in case time runs short
 - Check out [Bruce's blog post](http://blog.kaggle.com/2017/08/09/learn-data-science-from-kaggle-competition-meetups/) of presentation tips
-- One tweak on what it says in that blog post. It says don't try to explain a complicated topic in two minutes. But what we have found is that attendees like it when you pick one specific topic that comes up in a competition (what does AUC mean? what is transposed convolution?) and spend a bit of time to explain it from scratch, for someone who's never heard of it before.
+    - One tweak on what it says in that blog post. It says don't try to explain a complicated topic in two minutes. But what we have found is that attendees like it when you pick one specific topic that comes up in a competition (what does AUC mean? what is transposed convolution?) and spend a bit of time to explain it from scratch, for someone who's never heard of it before.
 - Here's a list of [winning solutions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions). Not sure how complete it is, but if your competition is there, it will be a big help
 - Use a big font where possible--much of the audience is far from the screen
+- Google Slides works really well
+    - you can update right up to the last minute or after the presentation
+    - everyone will have access to your latest updates
 
 ## The day before
 
@@ -37,4 +40,4 @@
     - There are always glitches, this gives us time to fix problems
 - Wear a solid color top
     - Yes, we're talking about your fashion choices
-    - Why solid color? patterns and stripes cause weird Moiré effects in the video
+    - Why solid color? Patterns and stripes cause weird Moiré effects in the video.
