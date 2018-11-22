@@ -1,5 +1,25 @@
 # Papers suggested to date
 
+# 2018-11-21
+
+## Chosen Paper
+[Comprehensive benchmarking of Markov chain Monte Carlo methods for dynamical systems](https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-017-0433-1), Benjamin Ballnus, Sabine Hug, Kathrin Hatz, Linus Görlitz, Jan Hasenauer and Fabian J. Theis
+
+## Other Suggestions
+* [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/abs/1611.01144), Eric Jang, Shixiang Gu, Ben Poole
+* [Many Analysts, One Data Set: Making Transparent How Variations in Analytic Choices Affect Results](https://journals.sagepub.com/doi/10.1177/2515245917747646), R. Silberzahn, et al.
+* [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://arxiv.org/abs/1803.01271), Shaojie Bai, J. Zico Kolter, Vladlen Koltun
+
+# 2018-10-11
+
+## Chosen Paper
+[Visual Reinforcement learning with imagined goals](https://arxiv.org/abs/1807.04742), Ashvin Nair, Vitchyr Pong, Murtaza Dalal, Shikhar Bahl, Steven Lin, Sergey Levine
+
+## Other Suggestions
+* [Semi supervised classification with  graph cnns](https://openreview.net/pdf?id=SJU4ayYgl),Thomas N. Kipf, Max Welling
+* [Learning dextrous hand manipulation](https://arxiv.org/abs/1808.00177), OpenAI: Marcin Andrychowicz, Bowen Baker, Maciek Chociej, Rafal Jozefowicz, Bob McGrew, Jakub Pachocki, Arthur Petron, Matthias Plappert, Glenn Powell, Alex Ray, Jonas Schneider, Szymon Sidor, Josh Tobin, Peter Welinder, Lilian Weng, Wojciech Zaremba
+* [Non‐parametric evidence of second‐leg home advantage in European football.](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12338), Gery Geenens, Thomas Cuddihy
+
 # 2018-09-12
 
 ## Chosen Paper
