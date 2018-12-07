@@ -1,5 +1,16 @@
 # Papers suggested to date
 
+# 2018-12-05
+
+## Chosen Paper
+[How Does Batch Normalization Help Optimization?](http://papers.nips.cc/paper/7515-how-does-batch-normalization-help-optimization), Shibani Santurkar, Dimitris Tsipras, Andrew Ilyas, Aleksander Madry
+
+## Other Suggestions
+* [On the Dimensionality of Word Embedding](http://papers.nips.cc/paper/7368-on-the-dimensionality-of-word-embedding). Zi Yin, Yuanyuan Shen
+* [Review Papers: Modeling Capture, Recapture, and Removal Statistics for Estimation of Demographic Parameters for Fish and Wildlife Populations: Past, Present, and Future](https://www.tandfonline.com/doi/abs/10.1080/01621459.1991.10475022) (paywalled), Kenneth Pollock
+* [Knowledge Tracing Machines: Factorization Machines for Knowledge Tracing](https://arxiv.org/abs/1811.03388), Jill-Jênn Vie, Hisashi Kashima
+* [Many Analysts, One Data Set: Making Transparent How Variations in Analytic Choices Affect Results](https://journals.sagepub.com/doi/abs/10.1177/2515245917747646), R. Silberzahn, et al.
+
 # 2018-11-21
 
 ## Chosen Paper
