@@ -1,5 +1,19 @@
 # Papers suggested to date
 
+# 2018-12-19
+
+## Chosen Paper
+[Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366), Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud
+
+## Other Suggestions
+* [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528), Terence Parr, Jeremy Howard
+* [Mining of Massive Datasets: Chapter 9 - Recommendation Systems](https://www.cambridge.org/core/books/mining-of-massive-datasets/recommendation-systems/8E2DDDAEFC644266620945386AB7DFDE), Jure Leskovec, Anand Rajaraman, Jeffrey David Ullman
+* [Reinforcement Learning: An Introduction to the Concepts, Applications and Code](https://towardsdatascience.com/reinforcement-learning-an-introduction-to-the-concepts-applications-and-code-ced6fbfd882d), Ryan Wong
+* [Knowledge Tracing Machines: Factorization Machines for Knowledge Tracing](https://arxiv.org/abs/1811.03388), Jill-Jênn Vie, Hisashi Kashima
+* [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913), Hao Li, Zheng Xu, Gavin Taylor, Christoph Studer, Tom Goldstein
+* [How to Start Training: The Effect of Initialization and Architecture](https://arxiv.org/abs/1803.01719), Boris Hanin, David Rolnick
+* [Disentangling Correlated Speaker and Noise for Speech Synthesis via Data Augmentation and Adversarial Factorization](https://openreview.net/forum?id=Bkg9ZeBB37), Wei-Ning Hsu, Yu Zhang, Ron J. Weiss, Yu-An Chung, Yuxuan Wang, Yonghui Wu, James Glass
+
 # 2018-12-05
 
 ## Chosen Paper
