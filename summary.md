@@ -1,5 +1,28 @@
 # Papers suggested to date
 
+# 2019-01-30
+
+## Chosen Paper
+[mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412), Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin, David Lopez-Paz
+
+## Other Suggestions
+* [Causal Reasoning from Meta-reinforcement Learning](https://arxiv.org/abs/1901.08162), Ishita Dasgupta, Jane Wang, Silvia Chiappa, Jovana Mitrovic, Pedro Ortega, David Raposo, Edward Hughes, Peter Battaglia, Matthew Botvinick, Zeb Kurth-Nelson
+* [GAN Dissection: Visualizing and Understanding Generative Adversarial Networks](https://arxiv.org/abs/1811.10597), David Bau, Jun-Yan Zhu, Hendrik Strobelt, Bolei Zhou, Joshua B. Tenenbaum, William T. Freeman, Antonio Torralba
+* [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913), Hao Li, Zheng Xu, Gavin Taylor, Christoph Studer, Tom Goldstein
+* [Many Analysts, One Data Set: Making Transparent How Variations in Analytic Choices Affect Results](https://journals.sagepub.com/doi/pdf/10.1177/2515245917747646), R. Silberzahn, et al.
+* [Delayed Impact of Fair Machine Learning](https://arxiv.org/abs/1803.04383), Lydia T. Liu, Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt
+
+# 2019-01-16
+
+## Chosen Paper
+[Auto ML book chapter 3 on neural architecture search](https://www.automl.org/wp-content/uploads/2018/12/nas-1.pdf)
+
+## Other Suggestions
+* [Learnability can be undecideable](https://www.nature.com/articles/s42256-018-0002-3)
+* [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747)
+* [Many Analysts, One Datase](https://journals.sagepub.com/doi/10.1177/2515245917747646)
+* [AdaNet: Adaptive Structural Learning of Artificial Neural Networks](https://arxiv.org/abs/1607.01097)
+
 # 2018-12-19
 
 ## Chosen Paper
