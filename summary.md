@@ -77,6 +77,17 @@
 * [Learning dextrous hand manipulation](https://arxiv.org/abs/1808.00177), OpenAI: Marcin Andrychowicz, Bowen Baker, Maciek Chociej, Rafal Jozefowicz, Bob McGrew, Jakub Pachocki, Arthur Petron, Matthias Plappert, Glenn Powell, Alex Ray, Jonas Schneider, Szymon Sidor, Josh Tobin, Peter Welinder, Lilian Weng, Wojciech Zaremba
 * [Non‐parametric evidence of second‐leg home advantage in European football.](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12338), Gery Geenens, Thomas Cuddihy
 
+# 2018-09-26
+
+## Chosen Paper
+[PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593), Charles R. Qi, Hao Su, Kaichun Mo, Leonidas J. Guibas
+
+## Other Suggestions
+* [Deep learning of aftershock patterns following large earthquakes](https://www.nature.com/articles/s41586-018-0438-y), Phoebe M. R. DeVries, Fernanda Viégas, Martin Wattenberg & Brendan J. Meade \[[blog](https://www.blog.google/technology/ai/forecasting-earthquake-aftershock-locations-ai-assisted-science/)\]
+* [StarSpace: Embed All The Things!](https://arxiv.org/abs/1709.03856), Ledell Wu, Adam Fisch, Sumit Chopra, Keith Adams, Antoine Bordes, Jason Weston
+* [Anyone Can Become a Troll: Causes of Trolling Behavior in Online Discussions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5791909/), 
+Justin Cheng, Michael Bernstein, Cristian Danescu-Niculescu-Mizil, and Jure Leskovec
+
 # 2018-09-12
 
 ## Chosen Paper
