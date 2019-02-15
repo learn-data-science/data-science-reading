@@ -1,5 +1,14 @@
 # Papers suggested to date
 
+# 2019-02-13
+
+## Chosen Paper
+[Beyond News Contents: The Role of Social Context for Fake News Detection ](https://dl.acm.org/citation.cfm?id=3290994), Kai Shu, Suhang Wang, Huan Liu \[[pdf](http://www.public.asu.edu/~skai2/files/wsdm_2019_fake_news.pdf)\]
+
+## Other Suggestions
+* [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046), Keith Bonawitz, et al.
+* [Learning with Privacy at Scale](https://machinelearning.apple.com/docs/learning-with-privacy-at-scale/appledifferentialprivacysystem.pdf), Differential Privacy Team, Apple \[[blog](https://machinelearning.apple.com/2017/12/06/learning-with-privacy-at-scale.html)\]
+
 # 2019-01-30
 
 ## Chosen Paper
