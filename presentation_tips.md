@@ -1,5 +1,7 @@
 # Preparing a presentation for a Kaggle meetup
 
+_Obviously, several of the suggestions below are only relevant to in-person presentations. For the moment, we are doing the meetups online through Zoom. The parts to ignore should be fairly obvious._
+
 ## Choosing a competition
 
 - Normally we choose a "real" competition that has ended
@@ -22,6 +24,7 @@
 - Google Slides works really well
     - you can update right up to the last minute or after the presentation
     - everyone will have access to your latest updates
+- **Pro tip for using Google Slides:** Install this [Chrome/Firefox extension](https://greasyfork.org/en/scripts/420529-slideshide).
 
 ## The day before
 
